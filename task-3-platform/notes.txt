@@ -1,0 +1,17 @@
+Task 3 – Coding and Collaboration Platforms
+
+--- Coding Platform: HackerRank ---
+Challenge Completed: Solve Me First
+Difficulty: Beginner
+Task: Write a program that reads two integers and outputs their sum.
+
+Even though the problem was simple, it was a really good introduction to how competitive coding platforms work, how you submit solutions, and how automated test cases evaluate your code. A genuinely useful first step for someone just starting out with programming.
+
+--- Collaboration Tool: Google Forms ---
+Form Created: Digital Literacy Awareness Quiz
+Number of Questions: 5
+Topics Covered: Digital literacy basics and online safety
+
+All responses are automatically collected in a linked Google Sheet. I had used Google Forms before for casual stuff but this was the first time I actually paid attention to how the backend and response collection works, and it was honestly really impressive to see how well it integrates with Google Sheets.
+
+Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLSddS09K2mIFfgI2U9l83-vLhVWOVnqiqdC18trhLFWUZZzxjA/viewform?usp=header
